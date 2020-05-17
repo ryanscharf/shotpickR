@@ -1,8 +1,8 @@
 type,dice,weight
 putter,disc,0.17
 mid,disc,0.17
-fairway,disc,0.17
-distance,disc,0.17
+fairway driver,disc,0.17
+distance driver,disc,0.17
 overstable,disc,0.17
 understable,disc,0.17
 hyzer,shot,0.4
