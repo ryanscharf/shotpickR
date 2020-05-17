@@ -1,0 +1,12 @@
+type,dice,weight
+putter,disc,0.17
+mid,disc,0.17
+fairway,disc,0.17
+distance,disc,0.17
+overstable,disc,0.17
+understable,disc,0.17
+hyzer,shot,0.4
+anhyzer,shot,0.4
+grenade/thumber,shot,0.066666667
+roller,shot,0.066666667
+360,shot,0.066666667
