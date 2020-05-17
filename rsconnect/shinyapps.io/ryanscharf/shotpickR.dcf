@@ -1,0 +1,12 @@
+name: shotpickR
+title: shotpickR
+username:
+account: ryanscharf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2313573
+bundleId: 3158278
+url: https://ryanscharf.shinyapps.io/shotpickR/
+when: 1589730086.04887
+asMultiple: FALSE
+asStatic: FALSE
